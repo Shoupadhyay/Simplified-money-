@@ -2,6 +2,7 @@
 Create an AI finance agent which retrieves data of stock price  from the Polygon AI of last 5 days with financial price and latest news using Langchain and Open_ai_api
 
 Follow the steps to excute the model efficently 
+
 """Create a conda enviorment  using the command 
 conda create --n langgraph python=3.11
 """
